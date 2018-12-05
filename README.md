@@ -1,4 +1,4 @@
-# Problem based learning 
+# [Problem based learning](#Connections#Tools used)
 
 ## Project theme (IOT):globe_with_meridians:
 
@@ -39,10 +39,11 @@
   :
   String chipId = "IOT";
   ```
-2.Google fire base
-  Go through the link for getting started with google fire base make sure you read the doc file provided with this repository
+2.Google firebase
+  Go through the link for getting started with google fire base make sure you read the doc file provided with this repository.
   
-3
+3.MIT APP inventer
+  As google firebase is enabled with the features of supporting native apps thus making it easy for iot based application the building for the application is documented in the word file provided in the repository.
   
 
 
