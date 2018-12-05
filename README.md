@@ -1,4 +1,4 @@
-# [Problem based learning](#Connections#Tools used)
+# Problem based learning
 
 ## Project theme (IOT):globe_with_meridians:
 
