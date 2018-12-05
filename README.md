@@ -21,8 +21,10 @@
 
 
 ## Software part
-Here's my IOT based project 
+Tools used:
+1.Arduino ide 
+ - >Installation
 
-# NOTE
-## _dont forget to make changes while using for your projects as per the comments provided in .ino file in project folder_
-### Note: Don't share your Database Secret or else anyone can alter your database
+
+###### _dont forget to make changes while using for your projects as per the comments provided in .ino file in project folder_
+###### Note: Don't share your Database Secret or else anyone can alter your database
