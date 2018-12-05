@@ -21,9 +21,24 @@
 
 
 ## Software part
-Tools used:
+## Tools used:
 1.Arduino ide 
- - >Installation
+  - Installation:
+  ```
+  Download the latest arduino ide form [here](https://www.arduino.cc/en/Main/Software)
+  ```
+  - Code:
+  The .ino file is already provided in the repository just make sure to edit ****** part the following code based on your requiremnts
+  ```
+  #define FIREBASE_HOST "*****************************" 
+  #define FIREBASE_AUTH "*****************************"
+  #define WIFI_SSID "*****"
+  #define WIFI_PASSWORD "************"
+  :
+  :
+  String chipId = "IOT";
+  ```
+  
 
 
 ###### _dont forget to make changes while using for your projects as per the comments provided in .ino file in project folder_
