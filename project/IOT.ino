@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 #include<FirebaseArduino.h>
-#define FIREBASE_HOST "iot-home-2f8af.firebaseio.com"                     //Your Firebase Project URL goes here without "http:" , "\" and "/"
+#define FIREBASE_HOST "*****************************"       //Your Firebase Project URL goes here without "http:" , "\" and "/"
 #define FIREBASE_AUTH "*****************************"       //Your Firebase Database Secret goes here
 #define WIFI_SSID "pvr"                                               //your WiFi SSID for which your NodeMCU connects
 #define WIFI_PASSWORD "************"                                      //Password of your wifi network 
