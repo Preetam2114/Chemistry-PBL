@@ -40,10 +40,10 @@
   String chipId = "IOT";
   ```
 2.Google firebase
-  Go through the link for getting started with google fire base make sure you read the doc file provided with this repository.
+  - Go through the link for getting started with google fire base make sure you read the doc file provided with this repository.
   
 3.MIT APP inventer
-  As google firebase is enabled with the features of supporting native apps thus making it easy for iot based application the building for the application is documented in the word file provided in the repository.
+  - As google firebase is enabled with the features of supporting native apps thus making it easy for iot based application the building for the application is documented in the word file provided in the repository.
   
 
 
