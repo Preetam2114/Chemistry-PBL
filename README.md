@@ -4,15 +4,15 @@
 
 ## Hardware Requirements
 
-> 3.3V and 5V Power Supply Module for MB102 Bread Board
+[x] 3.3V and 5V Power Supply Module for MB102 Bread Board
 
-> NODEMCU-ESP8266 Wifi Development Board
+[x] NODEMCU-ESP8266 Wifi Development Board
 
-> 4 Channel 5V 10A Relay Module
+[x] 4 Channel 5V 10A Relay Module
 
->Jumpers
+[x] Jumpers
 
->Buzzers(9V)(for testing the circuit)
+[x] Buzzers(9V)(for testing the circuit)
 
 ## Connections
 ![connections](https://github.com/Preetam2114/Chemistry-PBL/blob/master/project/connections.png?raw=true)
@@ -22,6 +22,7 @@
 
 ## Software part
 ## Tools used:
+
 1.Arduino ide 
   - Installation:
   ```
@@ -38,6 +39,10 @@
   :
   String chipId = "IOT";
   ```
+2.Google fire base
+  Go through the link for getting started with google fire base make sure you read the doc file provided with this repository
+  
+3
   
 
 
