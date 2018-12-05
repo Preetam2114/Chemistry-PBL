@@ -4,15 +4,15 @@
 
 ## Hardware Requirements
 
-[x] 3.3V and 5V Power Supply Module for MB102 Bread Board
+- [x] 3.3V and 5V Power Supply Module for MB102 Bread Board
 
-[x] NODEMCU-ESP8266 Wifi Development Board
+- [x] NODEMCU-ESP8266 Wifi Development Board
 
-[x] 4 Channel 5V 10A Relay Module
+- [x] 4 Channel 5V 10A Relay Module
 
-[x] Jumpers
+- [x] Jumpers
 
-[x] Buzzers(9V)(for testing the circuit)
+- [x] Buzzers(9V)(for testing the circuit)
 
 ## Connections
 ![connections](https://github.com/Preetam2114/Chemistry-PBL/blob/master/project/connections.png?raw=true)
